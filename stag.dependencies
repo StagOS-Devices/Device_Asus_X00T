@@ -7,14 +7,8 @@
   },
   {
     "remote"      : "github",
-    "repository"  : "StagOS-Devices/vendor_asus",
+    "repository"  : "StagOS-Devices/vendor-asus",
     "target_path" : "vendor/asus",
-    "branch"      : "sx"
-  },
-  {
-    "remote"      : "github",
-    "repository"  : "StagOS-Devices/device_asus_XOOT",
-    "target_path" : "device/asus/X00T",
     "branch"      : "sx"
   }
 ]
