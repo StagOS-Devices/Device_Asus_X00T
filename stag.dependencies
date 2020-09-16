@@ -6,8 +6,8 @@
     "branch"      : "sx"
   },
   {
-    "remote"      : "gitlab",
-    "repository"  : "StagOS-Devices/vendor-asus",
+    "remote"      : "gitlab-stag",
+    "repository"  : "vendor_asus",
     "target_path" : "vendor/asus",
     "branch"      : "sx"
   }
