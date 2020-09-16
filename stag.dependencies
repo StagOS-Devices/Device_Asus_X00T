@@ -6,7 +6,7 @@
     "branch"      : "sx"
   },
   {
-    "remote"      : "github",
+    "remote"      : "gitlab",
     "repository"  : "StagOS-Devices/vendor-asus",
     "target_path" : "vendor/asus",
     "branch"      : "sx"
